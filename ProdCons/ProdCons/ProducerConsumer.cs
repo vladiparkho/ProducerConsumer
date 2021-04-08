@@ -44,8 +44,6 @@ namespace ProdCons
                     MaxDegreeOfParallelism = producersCount
                 }, item =>
                 {
-                    //thr.Delay(delayTime);
-                   // Thread.Sleep(delayTime);
                     if (channel.Writer.TryWrite(item))
                     {
                         Console.WriteLine("Writing into channel. " + Task.CurrentId + " task ");

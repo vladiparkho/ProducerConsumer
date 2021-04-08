@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdCons", "ProdCons\ProdCons.csproj", "{2424B2FF-1E34-4497-B7D6-E81ABE5BD007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2424B2FF-1E34-4497-B7D6-E81ABE5BD007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2424B2FF-1E34-4497-B7D6-E81ABE5BD007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2424B2FF-1E34-4497-B7D6-E81ABE5BD007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2424B2FF-1E34-4497-B7D6-E81ABE5BD007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
